@@ -1,3 +1,3 @@
-<!-- --- title: Medizin -->
+# Medizin
 
 Hier Sammle ich mein Wissen aus dem Alltag als Medizinstudent.
