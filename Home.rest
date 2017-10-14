@@ -1,6 +1,6 @@
 <!-- --- title: Nowiki -->
 
-[[_TOC_]]
+[[_TOC_|levels = 3]]
 
 Nowiki
 ======
