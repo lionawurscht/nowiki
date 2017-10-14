@@ -1,3 +1,3 @@
 # Nowiki
 
-<<AllPages()>>
+<<GlobalTOC("All pages")>>
