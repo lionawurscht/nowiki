@@ -1,4 +1,4 @@
 - medizin
-  - [Medizin.r](Medizin.r)
+  - [Home](Home)
   - dermatologie
     - [allergieaustestung.r](allergieaustestung.r)
