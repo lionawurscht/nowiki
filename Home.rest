@@ -1,6 +1,6 @@
 <!-- --- title: Nowiki -->
 
-[[TOC]]
+[[_TOC_]]
 
 Nowiki
 ======
