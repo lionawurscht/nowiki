@@ -1,2 +1,3 @@
 # Nowiki
 
+<<AllPages()>>
